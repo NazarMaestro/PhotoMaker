@@ -1,6 +1,6 @@
-torch==2.9.1
-torchvision==0.24.1
-torchaudio==2.9.1
+torch==2.12.1
+torchvision==0.15.2
+torchaudio==2.12.1
 numpy
 opencv-python
 onnxruntime
